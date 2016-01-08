@@ -73,7 +73,7 @@ public class Main extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
 
-//
+
 /** Len taka vskuvka na ukazku - funguje, ale takto to predsa robit nechceme :) */
 //        Sudoku sudoku2 = new Sudoku();
 //        sudoku2.setXYZ(1,2,8);
